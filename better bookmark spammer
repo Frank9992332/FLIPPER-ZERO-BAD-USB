@@ -2,7 +2,7 @@ CTRL T
 STRING chrome://bookmarks/
 ENTER
 
-DELAY 5000
+DELAY 2000
 
 TAB
 DELAY 10
