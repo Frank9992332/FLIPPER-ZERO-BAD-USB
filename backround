@@ -2,7 +2,7 @@ CTRL T
 STRING sonic the hedge hog feet
 ENTER
 
-DELAY 500
+DELAY 1000
 
 TAB
 DELAY 50
@@ -13,7 +13,7 @@ DELAY 50
 TAB
 DELAY 50
 
-TABTAB
+TAB
 DELAY 50
 
 TAB
