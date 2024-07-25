@@ -1,6 +1,4 @@
-I understand now. Here's the complete sequence of commands from "STRING 1" to "STRING 1000", including delays and Enter commands in between each:
 
-```
 STRING 1
 DELAY 1000
 ENTER
