@@ -1,20 +1,10 @@
 DELAY 1000
-// Open the Chrome launcher
-GUI SEARCH
-DELAY 250
-STRING Chrome
-DELAY 250
-ENTER
-DELAY 2000
-// Open a new tab
-GUI t
+CTRL t
 DELAY 500
-// Type the URL
 STRING https://drive.google.com/file/d/1DskbALzQ8JzcLjHiX7bCPwIvKS2cQ8fu/view?usp=sharing
 DELAY 500
 ENTER
 DELAY 1000
-// Max out the volume
 VOLUME_UP
 DELAY 150
 VOLUME_UP
@@ -45,6 +35,4 @@ VOLUME_UP
 DELAY 150
 VOLUME_UP
 DELAY 150
-// Press the spacebar
-DELAY 500
 SPACE
